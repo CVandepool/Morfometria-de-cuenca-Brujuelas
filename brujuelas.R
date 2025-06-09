@@ -1,13 +1,17 @@
+#NOTA: El codigo presenta problema en la reescritura de los archivos, 
+#por lo que es necesario borrar la region de GRASS cada vez que se ejecute 
+#el codigo completo o ejecutarlo por partes.
 ejecutar_leaflet <- F
 reproducir_desde_cero <- T
 if(reproducir_desde_cero) {
   system('rm -r grass-data-test')
 }
-
+#Paquetes
 library(rgrass7)
 library(sp)
 library(sf)
 library(raster)
+
 gisdbase <- 'grass-data-test' #Base de datos de GRASS GIS
 wd <- getwd() #Directorio de trabajo
 wd
@@ -151,7 +155,7 @@ execGRASS(
     drainage = "drainage-dir-de-rwshed",
     basin = 'basins',
     half_basin = 'half-basins',
-    threshold = 80
+    threshold = 80 #umbral de acumulacion
   )
 )
 
@@ -164,6 +168,7 @@ execGRASS(
     coordinates = c(436668.43711353285,	2046734.011679014)
   )
 )
+
 execGRASS(
   "r.to.vect",
   flags = c('overwrite','quiet'),
