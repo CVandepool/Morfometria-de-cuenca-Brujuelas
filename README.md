@@ -1,13 +1,13 @@
-# Morfometria-de-cuenca-Brujuelas
+# Morfometria-de-cuenca-Brujuelas-Cumayasa
 
 [![DOI](https://zenodo.org/badge/998150651.svg)](https://doi.org/10.5281/zenodo.15832459)
 
 
-Proyecto de tesis de grado: Análisis geomorfométrico de la cuenca hidrográfica del río Brujuelas y su comparación con la cuenca del río Cumayasa en el contexto de la reorganización fluvial. 
+**Proyecto de tesis de grado:** *Análisis geomorfométrico de la cuenca hidrográfica del río Brujuelas y su comparación con la cuenca del río Cumayasa en el contexto de la reorganización fluvial.* 
 
 Este código fue desarrollado con el propósito de analizar las características geomorfométricas de la cuenca del río Brujuelas y el río Cumayasa, ubicados en la región geomorfológica conocida como la llanura costera del Caribe, en la República Dominicana. Para ello, se utilizó un modelo digital de elevación con una resolución de 12.5 metros y un algoritmo de hidrología computacional, cuyo desarrollo y aplicación se encuentran documentados en este repositorio.
 
-Entrada bibtex
+## Entrada bibtex
 
 ```
 @software{cvandepool_2025_15832460,
