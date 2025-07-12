@@ -3,7 +3,12 @@
 [![DOI](https://zenodo.org/badge/998150651.svg)](https://doi.org/10.5281/zenodo.15832459)
 
 
-Proyecto de tesis de grado: Geomorfometria de la cuenca del río Brujuelas y Cumayasa en el contexto de la reorganización fluvial
+Proyecto de tesis de grado: ANÁLISIS GEOMORFOMÉTRICO DE LA CUENCA HIDROGRÁFICA DEL RÍO BRUJUELAS Y SU COMPARACIÓN CON LA CUENCA DEL RÍO CUMAYASA EN EL CONTEXTO DE LA REORGANIZACIÓN FLUVIAL
+
+El presente estudio tiene como objetivo principal el análisis de las características geomorfométrico de la cuenca del río Brujuelas, ubicada en la región geomorfológica conocida como la llanura costera del Caribe en la República Dominicana, y su relación con la reorganización fluvial, utilizando la cuenca del río Cumayasa como unidad de comparación. Esta investigación es de carácter exploratorio, sentando las bases para futuras investigaciones en ambas cuencas, por ello se escogieron las variables morfométricas que mejor se adaptaron al objetivo de la investigación, para lo que se empleó un modelo digital de elevación con una resolución de 12.5 metros y un algoritmo de hidrología computacional. 
+
+Los resultados de esta investigación revelaron que la cuenca del río Brujuelas se encuentra en una fase juvenil de evolución fluvial, caracterizada por una red de drenaje con alta densidad, perfiles longitudinales mayormente cóncavos y una estructura influenciada por procesos kársticos, especialmente en la zona de contacto entre las formaciones Yanigua y Los Haitises, donde se desarrolla el sumidero y además, se identificaron tres posibles sistemas fluviales (Caganche, Tosa y Brujuelas), siendo el Tosa el de mayor orden. Al realizar la comparación con la cuenca del río Cumayasa, aunque se encontraron marcadas diferencias en la densidad de drenaje, ambas cuencas evidencian un claro proceso de reorganización fluvial en ambas, permitiendo estableces nuevas hipótesis sobre la evolución de la dinámica fluvial del río Cumayasa como un posible “antecesor del Brujuelas”, y reflejando la dinámica geomorfológica activa de la llanura costera del Caribe condicionada por factores litológicos y estructurales.
+Palabras clave: geomorfométria, captura fluvial, endokarst. 
 
 
 Entrada bibtex
