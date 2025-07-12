@@ -7,7 +7,7 @@
 
 Este código fue desarrollado con el propósito de analizar las características geomorfométricas de la cuenca del río Brujuelas y el río Cumayasa, ubicados en la región geomorfológica conocida como la llanura costera del Caribe, en la República Dominicana. Para ello, se utilizó un modelo digital de elevación con una resolución de 12.5 metros y un algoritmo de hidrología computacional, cuyo desarrollo y aplicación se encuentran documentados en este repositorio.
 
-## Entrada bibtex
+## Entrada BibTex
 
 ```
 @software{cvandepool_2025_15832460,
