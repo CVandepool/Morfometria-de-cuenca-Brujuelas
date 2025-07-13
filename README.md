@@ -9,6 +9,14 @@ Este código fue desarrollado con el propósito de analizar las características
 
 *El código fue escrito bajo R version 3.6.0 (2019-04-26). Algunas partes podrían no funcionar correctamente en versiones más recientes.*
 
+**English version below**
+
+Undergraduate Thesis Project: Geomorphometric analysis of the Brujuelas River watershed and its comparison with the Cumayasa River basin in the context of fluvial reorganization.
+
+This code was developed with the purpose of analyzing the geomorphometric characteristics of the Brujuelas and Cumayasa river basins, located in the geomorphological region known as the Caribbean Coastal Plain in the Dominican Republic. A digital elevation model (DEM) with a 12.5-meter resolution and a computational hydrology algorithm were used for this analysis. The development and application of these methods are documented in this repository.
+
+The code was written using R version 3.6.0 (2019-04-26). Some parts may not function correctly in more recent versions.
+
 ## Entrada BibTex
 
 ```
